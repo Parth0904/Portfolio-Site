@@ -30,7 +30,7 @@ export default function Footer() {
           <a href="https://www.linkedin.com/in/parth-londhe-057207343/" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
             <FaLinkedin size={20} />
           </a>
-          <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
+          <a href="https://x.com/Parth811758" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
             <FaTwitter size={20} />
           </a>
         </div>
