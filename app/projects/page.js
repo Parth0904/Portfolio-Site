@@ -9,21 +9,21 @@ const projects = [
   { 
     title: "Linktree Clone", 
     desc: "Create a customizable link landing page to share all your social and web links in one place.", 
-    link: "/projects/linktree-clone",
+    link: "https://bittree-75yyb1v37-parths-projects-c5a59639.vercel.app/",
     category: "Full-Stack",
     tech: ["Next.js", "MongoDB", "Tailwind CSS", "React"]
   },
   { 
     title: "URL Shortener", 
     desc: "A full-stack app to shorten URLs with analytics dashboard.", 
-    link: "/projects/url-shortener",
+    link: "https://url-shortener-three-steel-20.vercel.app/",
     category: "Backend",
     tech: ["Node.js", "MongoDB", "React"]
   },
   { 
     title: "Password Manager", 
     desc: "Securely store and manage your passwords with encryption and a web interface.", 
-    link: "/projects/password-manager",
+    link: "https://passop-gnyumlghq-parths-projects-c5a59639.vercel.app/",
     category: "Full-Stack",
     tech: ["Next.js", "MongoDB", "React", "Tailwind CSS"]
   }
