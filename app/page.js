@@ -114,7 +114,7 @@ export default function HomePage() {
         <div className="max-w-6xl mx-auto grid gap-8 grid-cols-1 md:grid-cols-3">
           <div className="bg-gray-800 p-6 rounded shadow hover:shadow-lg transition">
             <h3 className="text-xl font-semibold mb-2">URL Shortener</h3>
-            <p className="mb-4">A full-stack app to shorten URLs with analytics dashboard.</p>
+            <p className="mb-4">A full-stack app to shorten URLs.</p>
             <Link href="/projects" className="text-red-500 hover:underline">View Project</Link>
           </div>
           <div className="bg-gray-800 p-6 rounded shadow hover:shadow-lg transition">
@@ -124,7 +124,7 @@ export default function HomePage() {
           </div>
           <div className="bg-gray-800 p-6 rounded shadow hover:shadow-lg transition">
             <h3 className="text-xl font-semibold mb-2">Weather App</h3>
-            <p className="mb-4">Real-time weather data using public APIs and modern UI.</p>
+            <p className="mb-4">A linktree for all your social and web links.</p>
             <Link href="/projects" className="text-red-500 hover:underline">View Project</Link>
           </div>
         </div>
