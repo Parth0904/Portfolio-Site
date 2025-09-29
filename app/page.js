@@ -123,7 +123,7 @@ export default function HomePage() {
             <Link href="/projects" className="text-red-500 hover:underline">View Project</Link>
           </div>
           <div className="bg-gray-800 p-6 rounded shadow hover:shadow-lg transition">
-            <h3 className="text-xl font-semibold mb-2">Weather App</h3>
+            <h3 className="text-xl font-semibold mb-2">Bittree</h3>
             <p className="mb-4">A linktree for all your social and web links.</p>
             <Link href="/projects" className="text-red-500 hover:underline">View Project</Link>
           </div>
