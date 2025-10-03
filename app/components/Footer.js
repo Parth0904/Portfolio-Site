@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 import Link from "next/link";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
@@ -24,13 +22,31 @@ export default function Footer() {
 
         {/* Social Icons */}
         <div className="flex space-x-4">
-          <a href="https://github.com/Parth0904" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
+          <a
+            href="https://github.com/Parth0904"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Visit my GitHub profile"
+            className="hover:text-red-500"
+          >
             <FaGithub size={20} />
           </a>
-          <a href="https://www.linkedin.com/in/parth-londhe-057207343/" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
+          <a
+            href="https://www.linkedin.com/in/parth-londhe-057207343/"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Visit my LinkedIn profile"
+            className="hover:text-red-500"
+          >
             <FaLinkedin size={20} />
           </a>
-          <a href="https://x.com/Parth811758" target="_blank" rel="noopener noreferrer" className="hover:text-red-500">
+          <a
+            href="https://x.com/Parth811758"
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Visit my X (Twitter) profile"
+            className="hover:text-red-500"
+          >
             <FaTwitter size={20} />
           </a>
         </div>
